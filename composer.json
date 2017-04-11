@@ -1,0 +1,11 @@
+{
+    "name": "vendor/pureflux",
+    "description": "Descrição do projeto pureflux.",
+    "authors": [
+        {
+            "name": "euloucopoeta",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}

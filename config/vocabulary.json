@@ -1,0 +1,12 @@
+{
+    "code_open"         : "{%",
+    "code_close"        : "%}",
+    "data_open" : {
+        "{{" : "/\\{\\{\\}\\}/i"
+    },
+    "data_close"        : "}}",
+    "code_group_open"   : "(",
+    "code_group_close"  : ")",
+    "loop_open"         : "for",
+    "loop_close"        : "endfor"
+}
